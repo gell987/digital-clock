@@ -1,0 +1,24 @@
+#clock{
+    font-size: 175px;
+        	width: 900px;
+        	margin: 350px;
+        	text-align: center;
+        	border: 2px solid black;
+        	border-radius: 20px;
+            margin-left: 500px;
+            background-color: bisque;
+
+}
+
+
+body{
+    background-color: dimgrey;
+}
+
+.footer{
+    text-align: center;
+    background-color: antiquewhite;
+    color: brown;
+    margin-top: 32.3em;
+    font: bold;
+}
